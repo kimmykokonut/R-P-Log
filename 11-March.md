@@ -4,5 +4,5 @@
 
 830-900 Group Scrum
 900 Organize the day, set up repository
-930 Codewars warmup
-https://www.codewars.com
+930 Codewars warmup https://www.codewars.com
+1000 PostgreSQL vs mysql youtube https://www.youtube.com/watch?v=btjBNKP49Rk

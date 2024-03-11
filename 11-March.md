@@ -15,4 +15,6 @@ https://www.youtube.com/watch?v=IbVPbF7HTL4
 * 1045 Scaffold new asp.net core webapi and create new repo https://github.com/kimmykokonut/Garden-guardian
 * 1100 Create test db on postgresql
 * 1130 Troubleshooting set up webapi with Postgres. Postgres14 incompatible with .NET6.0
-
+https://dev.to/moe23/net-6-with-postgresql-576a
+https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.0
+* 1200 Fixed was trying to add package 6.0.7 and needed 6.0.0, Put in info for Seeds Model and had successful migration/db update with Postgresql

@@ -27,3 +27,5 @@ https://hasura.io/blog/top-psql-commands-and-flags-you-need-to-know-postgresql
 * 1500 working on 1:Many for Garden:Grid which was never functional before
 https://learn.microsoft.com/en-us/ef/core/modeling/relationships/one-to-many
 https://full-time.learnhowtoprogram.com/c-and-net/database-basics/establishing-a-one-to-many-relationship-with-navigation-properties#adding-a-one-to-many-relationship-to-to-do-list
+* 1500 Job Boards, applied to 2 jobs
+* 1530 Typescript

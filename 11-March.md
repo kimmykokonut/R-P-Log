@@ -20,3 +20,6 @@ https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.0
 * 1200 Fixed was trying to add package 6.0.7 and needed 6.0.0, Put in info for Seeds Model and had successful migration/db update with Postgresql
 * 1330 Continuing to add Models and Api Controllers for GardenApi
 * 1400 Full crud for all models, going to work on the many to many relationships
+* 1430 Many to many functional for seed tag
+* 1445 M2M functional for GridSeed
+* 1500 working on 1:Many for Garden:Grid

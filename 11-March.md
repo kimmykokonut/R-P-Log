@@ -13,7 +13,7 @@ https://www.postgresqltutorial.com/
 * 1030 Download and install PostgreSQL https://www.postgresql.org/download/
 https://www.youtube.com/watch?v=IbVPbF7HTL4
 * 1045 Scaffold new asp.net core webapi and create new repo https://github.com/kimmykokonut/Garden-guardian
-* 1100 Create test db on postgresql
+* 1100 Create test db on postgresql via terminal
 * 1130 Troubleshooting set up webapi with Postgres. Postgres14 incompatible with .NET6.0
 https://dev.to/moe23/net-6-with-postgresql-576a
 https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.0

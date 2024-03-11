@@ -21,5 +21,9 @@ https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.0
 * 1330 Continuing to add Models and Api Controllers for GardenApi
 * 1400 Full crud for all models, going to work on the many to many relationships
 * 1430 Many to many functional for seed tag
-* 1445 M2M functional for GridSeed
-* 1500 working on 1:Many for Garden:Grid
+* 1445 M2M functional for GridSeed, worked on Postgres Terminal commands
+https://www.postgresql.org/docs/current/app-psql.html
+https://hasura.io/blog/top-psql-commands-and-flags-you-need-to-know-postgresql
+* 1500 working on 1:Many for Garden:Grid which was never functional before
+https://learn.microsoft.com/en-us/ef/core/modeling/relationships/one-to-many
+https://full-time.learnhowtoprogram.com/c-and-net/database-basics/establishing-a-one-to-many-relationship-with-navigation-properties#adding-a-one-to-many-relationship-to-to-do-list

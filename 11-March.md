@@ -5,3 +5,4 @@
 830-900 Group Scrum
 900 Organize the day, set up repository
 930 Codewars warmup
+https://www.codewars.com

@@ -9,3 +9,4 @@
 * 1000 Pause to create db and react component diagrams
 https://github.com/kimmykokonut/Garden-guardian
 * 1015 Return to tutorial
+* 1130 Watch whiteboarding

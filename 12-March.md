@@ -16,4 +16,5 @@ https://github.com/kimmykokonut/Garden-guardian
 [course](https://www.codecademy.com/learn/learn-typescript)
 
 * 1330 whiteboarding watch
-* 1400 
+* 1400 work on building React front end with Typescript to connect to GardenAPI, set up basic header and homepage
+* 1445 Working on create bed page to call api

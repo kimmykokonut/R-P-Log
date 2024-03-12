@@ -30,3 +30,4 @@ https://full-time.learnhowtoprogram.com/c-and-net/database-basics/establishing-a
 * 1530 Job Boards, applied to 2 jobs
 * 1600 Typescript lessons on exercism https://exercism.org/tracks/typescript https://www.freecodecamp.org/news/use-typescript-with-react/
 * 1630 Whiteboarding with dev group
+* 1700 Postgres Crash course, 50 min https://www.youtube.com/watch?v=zw4s3Ey8ayo

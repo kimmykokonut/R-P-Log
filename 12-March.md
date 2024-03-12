@@ -18,3 +18,4 @@ https://github.com/kimmykokonut/Garden-guardian
 * 1330 whiteboarding watch
 * 1400 work on building React front end with Typescript to connect to GardenAPI, set up basic header and homepage
 * 1445 Working on create bed page to call api
+* 1530 changed garden properties, updated database, wrote api call, troubleshooting

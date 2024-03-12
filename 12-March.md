@@ -10,5 +10,10 @@
 https://github.com/kimmykokonut/Garden-guardian
 * 1015 Return to tutorial
 * 1130 Watch whiteboarding
-* 1300 typescript https://www.codecademy.com/learn/learn-typescript
+* 1300 typescript, read through
+[tutorial](https://www.w3schools.com/typescript/typescript_intro.php)
+[cheat sheet](https://doabledanny.gumroad.com/l/typescript-cheat-sheet-pdf)
+[course](https://www.codecademy.com/learn/learn-typescript)
+
 * 1330 whiteboarding watch
+* 1400 

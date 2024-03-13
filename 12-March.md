@@ -22,3 +22,5 @@ https://github.com/kimmykokonut/Garden-guardian
 * 1600 success for create garden api call. working on getall api call and build out dashboard, wip
 * 1630 wip-stuck on api call
 * 1645 rethinking what a grid is...looking into nested array idea instead of 15 create grids on 1 garden if they create a 3x5 garden bed.
+* 1700 dashboard success- getGardens api call and display
+* 1730 EOD

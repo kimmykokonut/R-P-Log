@@ -19,4 +19,6 @@ https://github.com/kimmykokonut/Garden-guardian
 * 1400 work on building React front end with Typescript to connect to GardenAPI, set up basic header and homepage
 * 1445 Working on create bed page to call api
 * 1530 changed garden properties, updated database, wrote api call, troubleshooting
-* 1600 switched to getall api call and build out dashboard, wip
+* 1600 success for create garden api call. working on getall api call and build out dashboard, wip
+* 1630 wip-stuck on api call
+* 1645 rethinking what a grid is...looking into nested array idea instead of 15 create grids on 1 garden if they create a 3x5 garden bed.

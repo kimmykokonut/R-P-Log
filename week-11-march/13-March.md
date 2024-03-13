@@ -11,3 +11,4 @@
 * 1130 reverting back to flattened array, but having grid created at garden creation, going to work on having UI displayg
 * 1215 success with adding grid to garden in ui
 * 1315 work on add seed to grid UI
+* 1330 whiteboarding audience

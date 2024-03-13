@@ -3,3 +3,5 @@
 ### Wednesday March 13, 2024
 
 * 815 Settle in, codewars
+* 900 scrum
+* 915 work on capstone sign up sheet

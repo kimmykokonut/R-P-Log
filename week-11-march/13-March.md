@@ -24,4 +24,5 @@ Source Map URL: react_devtools_backend_compact.js.map
 An error occurred: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data create:13024:25
 fail to add seed SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data create:13024:25
 * 1600 Worked on add seed form
-* 1630 Form complete, not functional. Time to whiteboard
+* 1630 Form complete, not functional. 
+* 1645 [Tailwind CSS tutorial](https://www.youtube.com/watch?v=lCxcTsOHrjo)

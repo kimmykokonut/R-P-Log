@@ -12,3 +12,14 @@
 * 1215 success with adding grid to garden in ui
 * 1315 work on add seed to grid UI
 * 1330 whiteboarding audience
+* 1345 back to addseed
+* 1530 down a rabbit hole with SourceMap Errors. I think the addSeed is not having a correct request body as well.
+Source map error: No sources are declared in this source map.
+Resource URL: http://localhost:5173/node_modules/.vite/deps/react.js?v=99e4064b
+Source Map URL: react.js.map
+
+Source map error: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Resource URL: null
+Source Map URL: react_devtools_backend_compact.js.map
+An error occurred: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data create:13024:25
+fail to add seed SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data create:13024:25

@@ -6,3 +6,4 @@
 
 * 900 scrum
 * 915 fixing garden app addseed issue
+* 1015 considering refactoring. need redux?

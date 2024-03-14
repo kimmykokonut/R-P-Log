@@ -6,4 +6,5 @@
 
 * 900 scrum
 * 915 fixing garden app addseed issue
-* 1015 considering refactoring. need redux?
+* 1015 considering refactoring. need redux? control component?
+* 1115 not refactoring, goal is tailwind so working on getting garden detail page to load first

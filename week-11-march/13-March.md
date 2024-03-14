@@ -26,3 +26,4 @@ fail to add seed SyntaxError: JSON.parse: unexpected end of data at line 1 colum
 * 1600 Worked on add seed form
 * 1630 Form complete, not functional. 
 * 1645 [Tailwind CSS tutorial](https://www.youtube.com/watch?v=lCxcTsOHrjo)
+* 1800 eod

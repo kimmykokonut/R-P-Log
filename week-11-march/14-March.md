@@ -9,3 +9,5 @@
 * 1015 considering refactoring. need redux? control component?
 * 1115 not refactoring, goal is tailwind so working on getting garden detail page to load first
 * 1200 garden detail page success
+* 1300 erik meeting.
+* 1320 install tailwind to react project: https://www.youtube.com/watch?v=qM7tGmZlrh8&ab_channel=QuickNuggets

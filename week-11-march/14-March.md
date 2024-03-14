@@ -11,3 +11,7 @@
 * 1200 garden detail page success
 * 1300 erik meeting.
 * 1320 install tailwind to react project: https://www.youtube.com/watch?v=qM7tGmZlrh8&ab_channel=QuickNuggets
+uninstall tailwind: https://github.com/e-Spirit/fsxa-pwa/blob/master/docs/modules/ROOT/pages/css/RemovingTailwind.adoc
+* 1330 try again set up tailwind: https://tailwindcss.com/docs/guides/vite
+* 1400 work on hero page
+* 1500 work on form pages

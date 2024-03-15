@@ -16,4 +16,6 @@ uninstall tailwind: https://github.com/e-Spirit/fsxa-pwa/blob/master/docs/module
 * 1400 work on hero page, looking at templates for inspiration https://freefrontend.com/tailwind-forms/
 * 1500 work on form pages
 * 1600 fiddling with tailwind, issues with centering
-* 1630 working on header styling
+* 1630 working on header styling https://www.codementor.io/@giorgiasambrotta/hamburger-menu-with-react-and-tailwind-css-1qx6sruvua
+* 1730 work on readme
+* 1830 eod

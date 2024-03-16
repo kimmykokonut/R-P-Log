@@ -14,3 +14,4 @@ https://garden-guardian-0nr2.onrender.com/
 * 1645 issue with render reset.
 * 1700 unresolved. working on deploying Front on Render
 * 1730 eod. no luck.
+* 1830-1900 fixed. fully deployed

@@ -12,4 +12,5 @@ https://garden-guardian-0nr2.onrender.com/
 * 1500 discovered .gitignore got overwritten when i added react so appsettings on github. going to delete repo, revert commits on local, new .gitignore commit, new remote repo
 * 1630 new repo on GH. git reset commits to remove appsettings from history. reset passwords. supabase reset. 
 * 1645 issue with render reset.
-* 1700 unresolved. eod.
+* 1700 unresolved. working on deploying Front on Render
+* 1730 eod. no luck.

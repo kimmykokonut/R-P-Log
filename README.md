@@ -11,8 +11,14 @@
 - Tailwind CSS
 - Project: Garden Guardian
 
+* Week 18 March
+- Portfolio
+- Whiteboarding
+- Python
+- Data scraping
+- Apply to jobs
+
 Dates to keep track of:
-3/14 1pm Erik meeting
 3/18 1130 Whiteboarding
 3/20 3:45pm Career Services
 3/21 11am Erik meeting

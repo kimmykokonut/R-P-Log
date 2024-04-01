@@ -20,22 +20,21 @@
 - Capstone MVP Submission
 
 * Week 25 March
-- Responsive Web Design certification
+- Responsive Web Design progress
 - PostgreSQL Essentials Certification
-- Build basic app with Django
-- Refactor Pierre3 with Django & React
+- Build basic app with Django (mysite: Polls)
+- Build new project (similar to Pierre3) with Django & React
 - Apply to jobs
 - Build new portfolio, accessibility and responsiveness focused
 - Whiteboard practice
 
 * Week 1 April
 - Continue: Responsive Web Design
-- Continue: Refactor Pierre3 with Django & React
+- Continue: Build Dumpling webapi (Django) & React client
 - Continue: Build new portfolio
 - Whiteboard practice
 - Apply to jobs
 
 Dates to keep track of:
 
-3/28 11:30 Erik meeting
 4/4 1pm Apply Jobs

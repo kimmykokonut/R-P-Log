@@ -30,7 +30,8 @@
 
 * Week 1 April
 - Continue: Responsive Web Design
-- Continue: Build Dumpling webapi (Django) & React client
+- Continue: Build Dumpling webapi (Django) 
+- Build React client for dumpling api
 - Continue: Build new portfolio
 - Whiteboard practice
 - Apply to jobs
